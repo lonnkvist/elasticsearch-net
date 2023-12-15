@@ -10,7 +10,7 @@
 	"description": "Nest .net elasticsearch client documentation",
 	"dependencies": {
 		"wintersmith": "2.x",
-		"wintersmith-livereload": "0.1.x",
+		"wintersmith-livereload": "0.2.3",
 		"connect": "2.6.x"
 	}
 }
