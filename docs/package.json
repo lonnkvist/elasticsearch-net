@@ -11,6 +11,6 @@
 	"dependencies": {
 		"wintersmith": "2.x",
 		"wintersmith-livereload": "0.1.x",
-		"connect": "2.6.x"
+		"connect": "3.0.0"
 	}
 }
